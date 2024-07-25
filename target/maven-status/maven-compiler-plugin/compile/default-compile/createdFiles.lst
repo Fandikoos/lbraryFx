@@ -1,0 +1,8 @@
+com\svalero\library\Controller\AppController.class
+com\svalero\library\Service\LibraryService.class
+com\svalero\library\Model\Author.class
+com\svalero\library\App.class
+com\svalero\library\Utils\LocalDateAdapter.class
+com\svalero\library\Model\Book.class
+com\svalero\library\Service\LibraryApi.class
+com\svalero\library\SplashScreen.class
